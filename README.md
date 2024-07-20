@@ -1,8 +1,6 @@
-<h1></h1>
+<h1 aling="center"> Hola soy Juan 👋</h1>
 
-## Hola soy Juan 👋
-
-<img src="file:///C:/Users/Zendrix%20Seiryu/Pictures/Wallpaper/3.jpeg">
+<img src="https://wallpaperaccess.com/full/6327211.png">
 
 
 <!--
