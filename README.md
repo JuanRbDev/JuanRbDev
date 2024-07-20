@@ -2,7 +2,7 @@
 
 ## Hola soy Juan 👋
 
-<img src="https://wallpaperaccess.com/full/6327211.png">
+<img src="file:///C:/Users/Zendrix%20Seiryu/Pictures/Wallpaper/3.jpeg">
 
 
 <!--
