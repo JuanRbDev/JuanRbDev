@@ -1,4 +1,4 @@
-<h1 aling="center"> Hola soy Juan 👋</h1>
+<h1 align="center"> Hola soy Juan 👋</h1>
 
 <img src="https://wallpaperaccess.com/full/6327211.png">
 
