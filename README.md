@@ -3,6 +3,8 @@
 <!--
 **JuanRbDev/JuanRbDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="file:///C:/Users/Zendrix%20Seiryu/Pictures/Wallpaper/3.jpeg">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
