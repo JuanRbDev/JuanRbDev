@@ -2,13 +2,8 @@
 
 <p align="center">Developer</p>
 
-
-<img src="https://w0.peakpx.com/wallpaper/32/770/HD-wallpaper-water-japanese-character-metal-hieroglyphs-kanji-japanese-symbol-for-water-black-signs-water-kanji-symbol-japanese-hieroglyphs-metal-background-water-japanese-hieroglyph-thumbnail.jpg">
-
 ![Descripción del GIF](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 
-
-## SKILLS
 
 
 ## SKILLS
