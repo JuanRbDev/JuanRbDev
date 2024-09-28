@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World👋, I'm Juan  </h1>
 
-<p align="center" color="blue">Frontend Developer</p>
-
+<p align="center" color="blue">Frontend / Mobile</p>
+<p align="center" color="blue">Developer</p>
 ![Descripción del GIF](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 
 
