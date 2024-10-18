@@ -5,7 +5,7 @@
 
 ![Descripción del GIF](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 
-  <img src="https://firebasestorage.googleapis.com/v0/b/logos-e6f60.appspot.com/o/html.webp?alt=media&token=061ad1a0-9349-4df6-9afb-df36e8028c4a" alt="" width="35px" height="35px">
+  <img src="https://firebasestorage.googleapis.com/v0/b/logos-e6f60.appspot.com/o/html.webp?alt=media&token=061ad1a0-9349-4df6-9afb-df36e8028c4a" alt="" width="35px" height="35px"> <img src="https://firebasestorage.googleapis.com/v0/b/logos-e6f60.appspot.com/o/css.webp?alt=media&token=5cc5d422-5aff-41d2-b8ad-b895d945a05b" alt="" width="35px" height="35px"> <img src="https://firebasestorage.googleapis.com/v0/b/logos-e6f60.appspot.com/o/js.webp?alt=media&token=fdd16db5-d192-4c39-9e42-5db407e3d8a0" alt="" width="35px" height="35px">
   
 ## SKILLS
 
