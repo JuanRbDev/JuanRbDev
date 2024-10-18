@@ -5,7 +5,7 @@
 
 ![Descripción del GIF](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 
-  <img src="https://firebasestorage.googleapis.com/v0/b/logos-e6f60.appspot.com/o/html.webp?alt=media&token=061ad1a0-9349-4df6-9afb-df36e8028c4a" alt="">
+  <img src="https://firebasestorage.googleapis.com/v0/b/logos-e6f60.appspot.com/o/html.webp?alt=media&token=061ad1a0-9349-4df6-9afb-df36e8028c4a" alt="" width="20px" height="20px">
   
 ## SKILLS
 
