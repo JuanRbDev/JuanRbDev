@@ -3,7 +3,7 @@
 <p align="center" color="blue">Frontend / Mobile</p>
 <p align="center" color="blue">Developer</p>
 
-![Descripción del GIF](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
+![Descripción del GIF](https://media.licdn.com/dms/image/v2/D4D16AQFqtwJjBt41HQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728703878798?e=1740009600&v=beta&t=QaCp7ZI3-86WoELBt_6q13LUq41sVh2WbsFjc41ddvs)
 
 
   ## SKILLS
