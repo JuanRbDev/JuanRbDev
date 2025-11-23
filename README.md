@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">👾 Juan Rb Dev | Full Stack Navigator</h1>
 
-<!--
-**JuanRbDev/JuanRbDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-∞-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Future Loading-50%25-cyan?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛸 Mission: Crafting the Web of Tomorrow
+> Desarrollo Web & Móvil con una pizca de ingeniería espacial para que todo funcione sin fricción.
+
+- 🔭 Explorando nuevas arquitecturas
+- ⚙️ Mejorando sistemas con precisión digital
+- 📲 Aplicaciones móviles que laten como circuitos bioelectrónicos
+- 🤝 Colaborando con humanos y robots por igual
+
+---
+
+### 🧬 Tech DNA
+
+```diff
++ React • Next.js • Astro
++ TypeScript • JavaScript • Dart • Flutter
++ Node.js • Express • NestJS
++ MongoDB • PostgreSQL • Supabase
++ Docker • CI/CD • Microservicios
